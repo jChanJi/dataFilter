@@ -3,7 +3,7 @@
 ### 运行方法
 >java &nbsp;&nbsp;-jar  &nbsp;&nbsp;  table2txt.jar  &nbsp;&nbsp;  [文件路径]    &nbsp;&nbsp;[输出路径]  &nbsp;&nbsp;  [文件名称]
 
-#### 注
+### 注
 >这个一次只能转换一个文件，瑞星转换多个请自行编写遍历
 
 ### 2、将xml转成csv格式
